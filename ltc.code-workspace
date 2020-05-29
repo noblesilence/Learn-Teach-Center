@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../blog_narrative_theme"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "learnteachcenter.com"
+	}
+}
