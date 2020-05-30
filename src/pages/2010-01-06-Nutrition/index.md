@@ -8,7 +8,7 @@ excerpt: Here, you learn about nutrition, preparing and eating nutritious foods.
 ---
 Here, you learn about nutrition, preparing and eating nutritious foods.
 
-1. <a href="./docs/Cancer_small.pdf" target="_blank">Cancer Preventing Foods</a>
+1. <a href="https://learnteachcenter.com/files/Cancer_small.pdf" target="_blank">Cancer Preventing Foods</a>
 2. In the following video, you can learn some important information about the correct way of feeding your body to reduce body fat and build muscles. 
    [6-pack abs part 2, Nutrition](https://www.youtube.com/watch?v=m9J5uHdUsNs)
 3. [How to Eat to Prevent Cancer](https://www.youtube.com/watch?v=Ql14I5W4xOs) 

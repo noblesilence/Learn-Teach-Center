@@ -6,7 +6,7 @@ date: 2010-01-02
 hero: ./images/hero.png
 excerpt: This page is devoted to Dhamma.
 ---
-[DarNaTaYar](http://www.learnteachcenter.com/2010_01/wp-content/uploads/2010/03/DarNaTaYar1.pdf)
+[DarNaTaYar](https://www.learnteachcenter.com/files/DarNaTaYar1.pdf)
 
 #### How to eradicate sufferings layer after layer
 <br />
